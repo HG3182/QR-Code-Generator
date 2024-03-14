@@ -1,6 +1,6 @@
 # QR Code Generator
 
-A simple text to qrcode generator using html, cs and js
+A simple text to qrcode generator using html, css and js
 
 ## Installation
 
