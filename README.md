@@ -2,7 +2,7 @@
 
 A simple text to qrcode generator using html, css and js
 
-## Installation
+## Clone Using
 
 ```bash
 git clone https://github.com/HG3182/QR-Code-Generator.git
